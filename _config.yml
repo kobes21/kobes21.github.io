@@ -10,3 +10,9 @@ linkedin_username: kobe-martin
 
 # Build settings
 markdown: kramdown
+
+# Colections
+collections:
+- events
+- publications
+- research

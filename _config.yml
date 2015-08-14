@@ -13,6 +13,9 @@ markdown: kramdown
 
 # Colections
 collections:
-- events
-- publications
-- research
+  - events
+    output: true
+  - publications
+    output: true
+  - research
+    output: true

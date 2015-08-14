@@ -1,3 +1,8 @@
+---
+layout: page
+title: Marine Mammal Science
+---
+
 ## Marine Mammal Science
 The **Marine Mammal Science Society** student chapter meeting is coming up in November at Macquarie University.
 - item

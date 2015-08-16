@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for collection in site.collections %}
-          <a class="page-link" href="{{ collection[1].label | prepend: site.baseurl }}">{{ collection[1].label | capitalize }}</a>
+          <a class="page-link" href="{{ collection[1].label | prepend: site.url }}">{{ collection[1].label | capitalize }}</a>
         {% endfor %}
       </div>
     </nav>

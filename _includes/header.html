@@ -15,9 +15,7 @@
 
       <div class="trigger">
         {% for collection in site.collections %}
-          {% if collection.name %}
-          <a class="page-link" href="{{ collection.url | prepend: site.baseurl }}">{{ collection.name }}</a>
-          {% endif %}
+          <a class="page-link" href="{{ collection[1].label | prepend: site.baseurl }}">{{ collection[1].label | capitalize }}</a>
         {% endfor %}
       </div>
     </nav>

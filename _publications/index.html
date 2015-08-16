@@ -1,3 +1,20 @@
 ---
 layout: default
 ---
+<div class="publication">
+
+  <h1 class="page-heading">Publications</h1>
+
+  <ul class="post-list">
+    {% for publication in site.publications %}
+      <li>
+        <span class="post-meta">{{ publication.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ publication.url | prepend: site.baseurl }}">{{ publication.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

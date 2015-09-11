@@ -1,7 +1,7 @@
  ---
- layout: page
-+title: Publications and Achievements
-+published: true
+layout: page
+title: Publications and Achievements
+published: true
  ---
 
 ## Conference Presentations

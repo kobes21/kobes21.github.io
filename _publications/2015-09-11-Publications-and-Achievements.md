@@ -37,11 +37,11 @@ Teaching
 </h2>
 
 <strong>2015</strong> - Labratory Demonstrator (UNSW) <br>
-&emsp;&emsp;&ensp; - Animal Behaviour (3rd year) <br>
-&emsp;&emsp;&ensp; - Evolutionary & Physiological Ecology (2nd year) <br><br>
+&emsp;&ensp;&ensp; - Animal Behaviour (3rd year) <br>
+&emsp;&ensp;&ensp; - Evolutionary & Physiological Ecology (2nd year) <br><br>
 
 <strong>2015</strong> - Invited Lecturer (UNSW) <br>
-&emsp;&emsp;&ensp; - Evolutionary & Physiological Ecology (2nd year)
+&emsp;&ensp;&ensp; - Evolutionary & Physiological Ecology (2nd year)
 
 
 

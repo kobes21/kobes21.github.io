@@ -15,6 +15,8 @@ Conference Presentations
 </p>
 </div>
 
+<br>
+
 <div style="padding:12px; background-color: #ec5473">
 <h2>
 Prizes
@@ -27,14 +29,16 @@ Prizes
 </p>
 </div>
 
+<br>
+
 <div style="padding:12px; background-color: #fcd30c">
 <h2>
 Teaching
 </h2>
 
-<strong>2015</strong> - Labratory Demonstrator (UNSW)
-- Animal Behaviour (3rd year)
-- Evolutionary & Physiological Ecology (2nd year)
+<strong>2015</strong> - Labratory Demonstrator (UNSW) <br>
+- Animal Behaviour (3rd year) <br>
+- Evolutionary & Physiological Ecology (2nd year) <br><br>
 
 <strong>2015</strong> - Invited Lecturer (UNSW)
 - Evolutionary & Physiological Ecology (2nd year)

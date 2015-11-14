@@ -24,7 +24,7 @@ published: true
 - Animal Behaviour (3rd year)
 - Evolutionary & Physiological Ecology (2nd year)
 
-**2015** - Guest Lecturer (UNSW)
+**2015** - Invited Lecturer (UNSW)
 - Evolutionary & Physiological Ecology (2nd year)
 
 

@@ -15,12 +15,17 @@ Conference Presentations
 </p>
 </div>
 
-##Prizes
+<div style="padding:12px; background-color: #ec5473>
+<h2>
+Prizes
+</h2>
 
-**2015** - Ecology & Evolution Research Centre (UNSW) Postgraduate start-up grant.
-**2015** - Australian Mammal Society student travel award.
-**2015** - School of Biological Earth & Environmental Sciences (UNSW) Evolution and ecology research prize.
-
+<p>
+<strong>2015</strong> - Ecology & Evolution Research Centre (UNSW) Postgraduate start-up grant. <br>
+<strong>2015</strong> - Australian Mammal Society student travel award. <br>
+<strong>2015</strong> - School of Biological Earth & Environmental Sciences (UNSW) Evolution and ecology research prize.
+</p>
+</div>
 
 ##Teaching
 

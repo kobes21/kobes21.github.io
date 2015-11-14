@@ -35,7 +35,7 @@ It was great to have representatives from Taronga and Dolphin Marine Magic there
 
 Overall, a very successful and enjoyable meeting, and of course it was fantastic to meet some lovely new people who share my passion for marine mammals and I hope to keep in touch with them as my research continues.
 
-<blockquote="text-color: #FFFFFF">
+<blockquote style="color: #FFFFFF">
 Why was the marine biologist so happy? Because she found her porpoise!
 </blockquote>
 

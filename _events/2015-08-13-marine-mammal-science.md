@@ -6,6 +6,7 @@ published: true
 
 <h2 style="background-color: #64e3c3">
 Marine Mammal Science <br>
+</h2>
 
 <p style="background-color: #64e3c3">
 The <strong>Marine Mammal Science Society</strong> student chapter meeting is coming up on the 5th-7th of November at Macquarie University. This is a great chance to catch up on all the current research being carried out on marine mammals in Australia and New Zealand. <br><br>

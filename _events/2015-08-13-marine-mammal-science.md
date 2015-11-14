@@ -4,7 +4,7 @@ title: Upcoming Events
 published: true
 ---
 
-<div style="background-color: #64e3c3">
+<div style="padding:12px; background-color: #64e3c3">
 <h2>
 Marine Mammal Science <br>
 </h2>

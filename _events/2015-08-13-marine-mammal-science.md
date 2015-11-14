@@ -10,4 +10,10 @@ The **Marine Mammal Science Society** student chapter meeting is coming up on th
 
 There will be presentations as well as posters. Come see my poster "Does size matter? Adaptations by aquatic mammals for underwater acoustic communication."
 
+<blockquote style="background-color: #64e3c3">
+
+If killer whales sing with other whales, do they have an orca-stra?
+
+</blockquote>
+
 > If killer whales sing with other whales, do they have an orca-stra?

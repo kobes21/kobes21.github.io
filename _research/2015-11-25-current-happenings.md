@@ -15,7 +15,7 @@ A single 10 minute sound grab displays tens to hundreds of calls produced by var
 </p>
 
 <blockquote>
-"When he clears his throat or coughs, my attention is immediately drawn to him by those sounds. It gives me new appreciation for how our ancestors used to communicate with their mouths: speech. The concept was always foreign to me when I read about it, but now I see how much simpler it would be"
+"When he clears his throat or coughs, my attention is immediately drawn to him by those sounds. It gives me new appreciation for how our ancestors used to communicate with their mouths: speech. The concept was always foreign to me when I read about it, but now I see how much simpler it would be" <br>
 Richelle Mead, Soundless
 </blockquote>
 
